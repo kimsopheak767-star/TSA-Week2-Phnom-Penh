@@ -1,6 +1,6 @@
 # Learning Log
 
-## Week 2 — Phnom Penh Monthly Precipitation (2015–2025)
+## Week 2 — Phnom Penh Rainfall (2015–2025)
 
 ### What I learned this week
 - A **time plot** shows the entire series in chronological order.
